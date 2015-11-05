@@ -1,9 +1,4 @@
-# InsomniacScriptTestHands_JuanLugo
 # juandiego.lugo@gmail.com
-
-# Select the hand control
-# ???
-# PROFIT!
 
 import maya.cmds as cmds
 
